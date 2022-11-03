@@ -1,0 +1,63 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "routeTables_az104_06_rt23_name": {
+            "value": null
+        },
+        "routeTables_az104_06_rt32_name": {
+            "value": null
+        },
+        "virtualMachines_az104_06_vm0_name": {
+            "value": null
+        },
+        "virtualMachines_az104_06_vm1_name": {
+            "value": null
+        },
+        "virtualMachines_az104_06_vm2_name": {
+            "value": null
+        },
+        "virtualMachines_az104_06_vm3_name": {
+            "value": null
+        },
+        "virtualNetworks_az104_06_vnet2_name": {
+            "value": null
+        },
+        "virtualNetworks_az104_06_vnet3_name": {
+            "value": null
+        },
+        "storageAccounts_cloudshell9223_name": {
+            "value": null
+        },
+        "networkInterfaces_az104_06_nic0_name": {
+            "value": null
+        },
+        "networkInterfaces_az104_06_nic1_name": {
+            "value": null
+        },
+        "networkInterfaces_az104_06_nic2_name": {
+            "value": null
+        },
+        "networkInterfaces_az104_06_nic3_name": {
+            "value": null
+        },
+        "virtualNetworks_az104_06_vnet01_name": {
+            "value": null
+        },
+        "networkSecurityGroups_az104_06_nsg2_name": {
+            "value": null
+        },
+        "networkSecurityGroups_az104_06_nsg3_name": {
+            "value": null
+        },
+        "networkSecurityGroups_az104_06_nsg01_name": {
+            "value": null
+        },
+        "loadBalancers_az104_06_lb4_externalid": {
+            "value": null
+        },
+        "applicationGateways_az104_06_appgw5_externalid": {
+            "value": null
+        }
+    }
+}

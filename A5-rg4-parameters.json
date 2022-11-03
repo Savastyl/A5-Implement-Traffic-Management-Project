@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "loadBalancers_az104_06_lb4_name": {
+            "value": null
+        },
+        "publicIPAddresses_az104_06_pip4_name": {
+            "value": null
+        }
+    }
+}
